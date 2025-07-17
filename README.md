@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lsrov.lsrov&right_color=green"  />
+</div>
+
+###
+
 <h1 align="center">Olá! 👋</h1>
 
 ###
